@@ -1,0 +1,22 @@
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning & Forecasting
+prophet>=1.1.4
+scikit-learn>=1.3.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Database (built-in with Python)
+# sqlite3 - No installation needed, part of Python standard library
+
+# Optional: For enhanced data analysis
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: For better performance
+openpyxl>=3.1.0  # For Excel file support if needed
+xlsxwriter>=3.1.0  # For Excel writing capabilities
